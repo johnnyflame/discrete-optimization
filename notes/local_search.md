@@ -31,7 +31,7 @@ The key idea behind local search is to start from a complete by suboptimal confi
 
 ### Solving the Car sequencing problem with swapping
 
-- We first generate an arbitrary configuration of cars
+- We first generate an arbitrary ==configuration==\*\*\*\* of cars
 - Then we count the number of violations using a sliding window
 - Then we swap configurations causing violations with each other, until eventually all violations have been resolved.
 
