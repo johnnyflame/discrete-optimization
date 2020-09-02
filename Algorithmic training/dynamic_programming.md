@@ -2,15 +2,36 @@
 
 ## Introduction
 
-## Learning
+## Components
 
-### Big ideas of dynamic programming
+- Memoization
+- Recursion
+- Enumeration
+- State machine
+- State transitioning
+- Sub problems
 
--
+### Big ideas
+
+- Top down approach
+  - Recursive tree search with caching
+- Bottom up approach
+
+## Intuition
+
+- Brute force
+
+## Common tricks for optimization
+
+- Loop backwards to reduce using additional space
+
+## Beware of these pitfalls
+
+- Getting the wrong state transition equation
 
 ## Practice
 
-### Pattern recognition: when dynamic programming might be a suitable technique
+### Pattern recognition: When to use DP?
 
 - Optimization problems
   - Maximization, minimization
